@@ -1,2 +1,2 @@
 # multiup-link-viewer
-changes the download button to show the file name and file link for multiup.io
+userscript that changes the download button to show the file name and file link for multiup.io
